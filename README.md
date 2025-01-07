@@ -30,17 +30,20 @@ Sports Shoes is a React-based web application designed to showcase a collection 
 To start the development server, run:
 ```sh
 npm run dev
+```
 
 ## Scripts
-
+```python
 npm run dev: Starts the development server.
 npm run build: Builds the project for production.
 npm run deploy: Builds the project and deploys it to GitHub Pages.
 npm run lint: Runs ESLint to check for linting errors.
 npm run preview: Previews the production build.
+```
 
 ## Folder Structure
-
+```python
+Folder Structure
 .github/
   workflows/
     deploy.yml
@@ -78,17 +81,17 @@ src/
     Subscribe.jsx
 tailwind.config.js
 vite.config.js
-
+```
 
 ## Configuration
 
-Tailwind CSS
+#### Tailwind CSS
 The Tailwind CSS configuration is located in tailwind.config.js. You can customize the theme, colors, fonts, and other settings as needed.
 
-ESLint
+#### ESLint
 The ESLint configuration is located in eslint.config.js. It includes recommended rules for React and hooks.
 
-Vite
+#### Vite
 The Vite configuration is located in vite.config.js. It includes the React plugin for Vite.
 
 ## Contributing
