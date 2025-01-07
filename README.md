@@ -1,8 +1,32 @@
-# React + Vite
+# Sports Shoes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sports Shoes is a React-based web application designed to showcase a collection of Nike shoes. The project uses Vite for fast development and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scripts](#scripts)
+- [Folder Structure](#folder-structure)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/sports-shoes.git
+    cd sports-shoes
+    ```
+
+2. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+## Usage
+
+To start the development server, run:
+```sh
+npm run dev
